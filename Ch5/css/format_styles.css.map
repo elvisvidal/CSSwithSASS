@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAMA,IAAK,CACH,WAAW,CAAE,8CAA8C,CAE3D,MAAE,CACA,WAAW,CAAE,KAAK,CAGpB,aAAQ,CACN,WAAW,CAAE,aAAa,CAI9B,OAAQ,CACN,KAAK,CAAE,OAAO,CACd,MAAM,CAAE,iBAAiB,CACzB,OAAO,CAAE,IAAI,CAEb,aAAQ,CACN,KAAK,CAAE,GAAG",
+"sources": ["../sass/format_styles.scss"],
+"names": [],
+"file": "format_styles.css"
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;AASA,OAAQ;EACN,KAAK,EALG,IAA8B;EAMtC,MAAM,EAAE,cAAsC;EAC9C,OAAO,EAAE,SAA4B",
+"sources": ["../sass/ops_styles.scss"],
+"names": [],
+"file": "ops_styles.css"
+}
